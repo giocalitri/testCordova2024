@@ -1,0 +1,7 @@
+{
+  "name": "testCordova2024",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
